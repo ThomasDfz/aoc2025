@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day": "node index.js",
+    "generate_day": "node utils/generate.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
